@@ -457,6 +457,25 @@ footer {
     top: auto;
     bottom: 0;
   }
-  
+
+  /* MISSIOn */
+  h2 {
+    margin: 15px 0;
+  }
+  h3 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  #mission {
+    margin: 20px 0;
+    padding: 0 20px;
+  }
+  #mission-flex {
+    flex-direction: column;
+  }
+  #mision-flex > div {
+    width: 100%;
+    margin: 0;
+  }
 
 }
