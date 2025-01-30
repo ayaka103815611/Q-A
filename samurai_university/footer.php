@@ -1,5 +1,5 @@
-   <!-- footer.php ここから -->
-   <footer class="footer">
+    <!-- footer.php ここから -->
+    <footer class="footer">
       <div class="row footer_row">
         <div class="col">
           <div class="footer_content">
