@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+  
+}
