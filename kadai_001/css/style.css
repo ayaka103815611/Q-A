@@ -43,6 +43,27 @@ a {
 }
 .about-section {
   display: flex;
+  justify-content: center;
   align-items: center;
   margin: 20px auto;
+}
+.intoduce {
+  margin: 0 50px;
+}
+#about  p {
+  font-size: 24px;
+}
+
+/* works */
+.works-section {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.work {
+  width: 30%;
+  margin: 0 10px;
+}
+#work {
+  margin: 0 10px;
 }
