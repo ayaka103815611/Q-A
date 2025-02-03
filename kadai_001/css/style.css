@@ -6,6 +6,43 @@
 .header-inner {
   display: flex;
   justify-content: space-between;
+  margin: 20px 60px;
+  align-items: center;
+
+}
+h1 {
+  border: 1px solid #000000;
+  font-size: 34px;
+  padding: 0 30px;
+}
+
+#nav-pc a {
+  font-size: 34px;
+  margin: 0 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+#main-img {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* about */
+.index {
+  font-size: 34px;
+  text-align: center;
+}
+#about-img {
+  border-radius: 50%;
+  width: 282px;
+  height: 284px;
+  margin: 20px;
+}
+.about-section {
+  display: flex;
+  align-items: center;
   margin: 20px auto;
-  
 }
